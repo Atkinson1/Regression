@@ -1,1 +1,1 @@
-# regression
+# Doing Regression with R using Jim Frost's Regression Analysis book (which itself uses Minitab software)
